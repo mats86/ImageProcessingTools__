@@ -1,0 +1,199 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\malattas\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\malattas\\Documents\\AndroidProject\\ImageProcessingTools\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"lib_tesseract-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "lib_tesseract",
+			"buildType" : "debug",
+			"output" : "C:\\Users\\malattas\\Documents\\AndroidProject\\ImageProcessingTools\\tess-two\\libs\\armeabi-v7a\\libtess.so",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_calib3d-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_calib3d",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_calib3d.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_core-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_core",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_core.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_dnn-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_dnn",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_dnn.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_features2d-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_features2d",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_features2d.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_flann-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_flann",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_flann.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_highgui-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_highgui",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_highgui.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_imgcodecs-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_imgcodecs",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_imgcodecs.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_imgproc-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_imgproc",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_imgproc.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_java3-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_java3",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_java3.so",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_ml-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_ml",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_ml.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_objdetect-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_objdetect",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_objdetect.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_photo-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_photo",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_photo.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_shape-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_shape",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_shape.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_stitching-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_stitching",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_stitching.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_superres-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_superres",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_superres.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_video-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_video",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_video.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_videoio-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_videoio",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_videoio.a",
+			"toolchain" : "3352611287"
+		},
+		"libopencv_videostab-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "libopencv_videostab",
+			"buildType" : "debug",
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/jniLibs/armeabi-v7a/libopencv_videostab.a",
+			"toolchain" : "3352611287"
+		},
+		"native-lib-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\Users\\malattas\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\malattas\\Documents\\AndroidProject\\ImageProcessingTools\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target native-lib",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -IC:\\Users\\malattas\\Documents\\dev\\opencv-3.4.3-android-sdk\\sdk\\native\\jni\\include -IC:\\cygwin64\\usr\\local\\include -isystem C:\\Users\\malattas\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\malattas\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -std=c++11 -std=gnu++11 -fexceptions -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/cpp/trackingColor_lib.cpp",
+					"workingDirectory" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				},
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/sysroot  -Dnative_lib_EXPORTS -IC:\\Users\\malattas\\Documents\\dev\\opencv-3.4.3-android-sdk\\sdk\\native\\jni\\include -IC:\\cygwin64\\usr\\local\\include -isystem C:\\Users\\malattas\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++\\include -isystem C:\\Users\\malattas\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\sources\\cxx-stl\\llvm-libc++abi\\include  -isystem C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -std=c++11 -std=gnu++11 -fexceptions -frtti -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/src/main/cpp/textRecognition_lib.cpp",
+					"workingDirectory" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "C:/Users/malattas/Documents/AndroidProject/ImageProcessingTools/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so",
+			"toolchain" : "3352611287"
+		}
+	},
+	"toolchains" : 
+	{
+		"3352611287" : 
+		{
+			"cCompilerExecutable" : "C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/malattas/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

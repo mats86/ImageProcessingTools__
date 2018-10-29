@@ -66,7 +66,7 @@ public class TextRecognitionActivity extends AppCompatActivity implements
         textView = findViewById(R.id.textView);
         textView_tesseractVersion = findViewById(R.id.st_tesseractversion);
 
-        result = textRecognition("/storage/emulated/0/DCIM/ImageProcessing/test.jpg");
+        //result = textRecognition("/storage/emulated/0/DCIM/ImageProcessing/test.jpg");
         // result = "tt";
         textView_tesseractVersion.setText(result);
 

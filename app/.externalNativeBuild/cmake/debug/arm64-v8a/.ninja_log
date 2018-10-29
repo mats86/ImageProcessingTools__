@@ -1,0 +1,17 @@
+# ninja log v5
+5	1409	0	CMakeFiles/native-lib.dir/src/main/cpp/trackingColor_lib.cpp.o	f772222e1947a898
+1	1628	0	CMakeFiles/native-lib.dir/src/main/cpp/textRecognition_lib.cpp.o	8a1e0c442446c8a8
+1629	1784	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	fcc73218bc41cb97
+3	225	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	fcc73218bc41cb97
+7	1233	0	CMakeFiles/native-lib.dir/src/main/cpp/trackingColor_lib.cpp.o	f772222e1947a898
+3	1440	0	CMakeFiles/native-lib.dir/src/main/cpp/textRecognition_lib.cpp.o	8a1e0c442446c8a8
+1440	1589	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	564d0928e08bc7df
+2	157	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	564d0928e08bc7df
+3	158	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	564d0928e08bc7df
+3	1385	0	CMakeFiles/native-lib.dir/src/main/cpp/textRecognition_lib.cpp.o	8a1e0c442446c8a8
+1385	1526	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	564d0928e08bc7df
+3	1377	0	CMakeFiles/native-lib.dir/src/main/cpp/textRecognition_lib.cpp.o	8a1e0c442446c8a8
+1377	1518	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	564d0928e08bc7df
+4	1373	0	CMakeFiles/native-lib.dir/src/main/cpp/textRecognition_lib.cpp.o	8a1e0c442446c8a8
+1373	1512	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	564d0928e08bc7df
+3	183	0	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	564d0928e08bc7df

@@ -33,7 +33,7 @@ Java_com_example_malattas_imageprocessingtools_TrackingColorActivity_colorTracki
 
 
     GaussianBlur(mRgb, blurred, Size(11, 11), 0);
-    cvtColor(blurred, hsv, CV_RGB2HSV);
+    cvtColor(blurred, hsv, COLOR_RGB2HSV);
 
 
     if (string("Yellow") == color) {
