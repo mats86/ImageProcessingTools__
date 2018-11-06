@@ -5,11 +5,9 @@
 
 cmake_minimum_required(VERSION 3.4.1)
 
-# set(CMAKE_VERBOSE_MAKEFILE on)
-# set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=gnu++11")
-# set(OpenCV_STATIC ON)
+set(GOOGLETEST_ROOT ${ANDROID_NDK}/sources/third_party/googletest/googletest)
 
-# FILE(GLOB_RECURSE cppfiles src/main/cpp/*)
+FILE(GLOB_RECURSE cppfiles src/main/cpp/*)
 
 set(libs "${CMAKE_CURRENT_SOURCE_DIR}/src/main/jniLibs")
 include_directories(C:\\Users\\malattas\\Documents\\dev\\my-opencv-sdk\\native\\jni\\include)
@@ -177,9 +175,9 @@ add_library( # Sets the name of the library.
         SHARED
 
         # Provides a relative path to your source file(s).
-        src/main/cpp/trackingColor_lib.cpp
-        src/main/cpp/textRecognition_lib.cpp
-        # ${cppfiles}
+#        src/main/cpp/trackingColor_lib.cpp
+#        src/main/cpp/textRecognition_lib.cpp
+        ${cppfiles}
         )
 
 # Searches for a specified prebuilt library and stores the path as a
